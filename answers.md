@@ -46,7 +46,7 @@ Author: Norah Aldosari <na314617@ohio.edu>
 Date:   Wed May 13 22:06:56 2020 -0700
 
     Initial commit
-    answer 10: 
+    answer 10: yes
     answer 11: To https://github.com/NorahAldosari/Homework-1.git
  ! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/NorahAldosari/Homework-1.git'
